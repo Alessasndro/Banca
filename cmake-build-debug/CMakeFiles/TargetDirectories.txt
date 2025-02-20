@@ -1,0 +1,3 @@
+C:/Users/enach/Desktop/bertiniNonTiTemo/cmake-build-debug/CMakeFiles/bertiniNonTiTemo.dir
+C:/Users/enach/Desktop/bertiniNonTiTemo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/enach/Desktop/bertiniNonTiTemo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
