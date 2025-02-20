@@ -1,8 +1,8 @@
 # ninja log v6
 12	76	7614914403279526	CMakeFiles/bertiniNonTiTemo.dir/observer.cpp.obj	86658f7ee31ad8f4
+680	812	7614914409959914	bertiniNonTiTemo.exe	f2f0f2308e951cd5
 2	569	7614914403169527	CMakeFiles/bertiniNonTiTemo.dir/main.cpp.obj	b05964e386020c7a
 8	571	7614914403239552	CMakeFiles/bertiniNonTiTemo.dir/Transazione.cpp.obj	127fb6927cc30380
 26	579	7614914403419543	CMakeFiles/bertiniNonTiTemo.dir/Interagisci.cpp.obj	adef863f87fe4951
 17	579	7614914403319586	CMakeFiles/bertiniNonTiTemo.dir/SaldoObserver.cpp.obj	2e486bf622fea50c
 21	680	7614914403369518	CMakeFiles/bertiniNonTiTemo.dir/ContoCorrente.cpp.obj	35010262e5b2802a
-680	812	7614914409959914	bertiniNonTiTemo.exe	f2f0f2308e951cd5
